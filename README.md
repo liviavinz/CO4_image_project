@@ -12,8 +12,7 @@ A classical image segmentation pipeline for detecting and counting E. coli colon
 ```
 ├── CO4_Project_Work.ipynb   # Main notebook: full pipeline and evaluation
 ├── requirements.txt         # Python dependencies
-├── multi_plate.tif          # Raw scanner image of petri dishes
-├── data_to_submit/          # Cropped plate images and automated segmentation masks
+├── data_to_submit/          # Cropped plate/ preprocessed images and automated segmentation masks
 ├── gimp_masks/              # Manual ground-truth masks created in GIMP
 └── tools/                   # Helper modules (plotting, file I/O, colors, system info)
 ```
